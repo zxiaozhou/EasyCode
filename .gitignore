@@ -3,7 +3,9 @@
 ## 忽略其他配置文件，防止冲突
 .idea/
 .gradle/
-
+*.iml
+gradlew
+gradlew.bat
 
 gradle.properties
 
